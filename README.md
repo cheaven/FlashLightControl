@@ -3,6 +3,9 @@ FlashLightControl
 
 A Pure Flash based Audio Player to control the RGB lights
 
+Demo Video:
+----------------
+http://www.tudou.com/programs/view/sWd0V5uNAOI/
 
 Usage:
 ----------------
